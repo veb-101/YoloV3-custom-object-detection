@@ -1,0 +1,8 @@
+pandas
+numpy
+awscli
+urllib3
+tqdm
+opencv-python
+tensorflow==1.14
+keras==2.2.4
