@@ -4,5 +4,5 @@ awscli
 urllib3
 tqdm
 opencv-python
-tensorflow==1.14
+tensorflow==2.6.4
 keras==2.2.4
